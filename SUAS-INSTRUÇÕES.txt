@@ -1,2 +1,5 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+SerÃ¡ necessÃ¡rio colocar o Log em "C:\Log\log.txt"
+
+Ã‰ um simples projeto Java, favor abrir no eclipse e executar o main da classe MontaRanking.
+Dentre os bÃ´nus foi feito somente a opÃ§Ã£o "Jogadores que vencerem uma partida sem morrerem devem ganhar um "award";
+
